@@ -1,4 +1,4 @@
-# 🚁 ESP32 Drone Stabilization Project
+# 🚁 ESP32 ESP32-WiFi-GyroBalancer Project
 
 用 ESP32 打造一套分階段的四軸飛行器實驗平台，從馬達控制到姿態穩定，逐步實現自製飛控！
 
